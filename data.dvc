@@ -1,6 +1,104 @@
 outs:
-- md5: 492a6c6946e8a0ee7291ff28e93e4c99.dir
-  size: 1155062
-  nfiles: 20
-  hash: md5
+- hash: md5
   path: data
+  files:
+  - relpath: 0/caba1.jpeg
+    md5: 9b6577945f81a08fdf80a28c656af1a0
+    size: 14244
+    version_id: '1694125421510957'
+    etag: 08ad82d1ffc49981031001
+  - relpath: 0/caba10.jpeg
+    md5: 37618a708f4ab71f5d2bf857e3d750c3
+    size: 12435
+    version_id: '1694125421797071'
+    etag: 08cfbde2ffc49981031001
+  - relpath: 0/caba2.jpeg
+    md5: c49854409ce1e70195747645cc329eeb
+    size: 8953
+    version_id: '1694125422081650'
+    etag: 08f2ecf3ffc49981031001
+  - relpath: 0/caba3.jpeg
+    md5: 310197e3ac23b630de763f733d09f968
+    size: 10767
+    version_id: '1694125421686392'
+    etag: 08f8dcdbffc49981031001
+  - relpath: 0/caba4.jpeg
+    md5: 700c556ead6603ff430e0ca76e1576bd
+    size: 10090
+    version_id: '1694125422126500'
+    etag: 08a4cbf6ffc49981031001
+  - relpath: 0/caba5.jpeg
+    md5: 21a4d52c5322e4dec587c779a689c181
+    size: 12890
+    version_id: '1694125422075012'
+    etag: 0884b9f3ffc49981031001
+  - relpath: 0/caba6.jpeg
+    md5: b87163133ac8cce908426986e94f28ac
+    size: 4870
+    version_id: '1694125422087864'
+    etag: 08b89df4ffc49981031001
+  - relpath: 0/caba7.jpeg
+    md5: c43df19c35f38b23544a8802b8d094e8
+    size: 16256
+    version_id: '1694125421800539'
+    etag: 08dbd8e2ffc49981031001
+  - relpath: 0/caba8.jpeg
+    md5: 9de5cbdbd6675991773e7a30fd7c2c12
+    size: 15208
+    version_id: '1694125422091940'
+    etag: 08a4bdf4ffc49981031001
+  - relpath: 0/caba9.jpeg
+    md5: bb389b294c99b5679736a1bee942d805
+    size: 14709
+    version_id: '1694125422093401'
+    etag: 08d9c8f4ffc49981031001
+  - relpath: 1/ele1.jpg
+    md5: 5a1f848170f4c91a7d9a4e4938a448ae
+    size: 71854
+    version_id: '1694125421046351'
+    etag: 08cfd4b4ffc49981031001
+  - relpath: 1/ele10.jpg
+    md5: e7a37b32233012b94718534232a03a22
+    size: 105995
+    version_id: '1694125422260642'
+    etag: 08a2e3feffc49981031001
+  - relpath: 1/ele2.jpg
+    md5: d48e2081c83e1fed147bf64631f05ae2
+    size: 125352
+    version_id: '1694125422303778'
+    etag: 08a2b48180c59981031001
+  - relpath: 1/ele3.jpg
+    md5: 2acda4b423b8b8302563a78453761653
+    size: 125354
+    version_id: '1694125421954006'
+    etag: 08d687ecffc49981031001
+  - relpath: 1/ele4.jpg
+    md5: 07fe7426c8397a17b5ef8120375dff04
+    size: 70234
+    version_id: '1694125421920956'
+    etag: 08bc85eaffc49981031001
+  - relpath: 1/ele5.jpg
+    md5: f1da32c18bc30d82ab25184ea8661bce
+    size: 94180
+    version_id: '1694125422209457'
+    etag: 08b1d3fbffc49981031001
+  - relpath: 1/ele6.jpg
+    md5: 218fe34f7df423bd05cb28f816cfd1d9
+    size: 61051
+    version_id: '1694125421897938'
+    etag: 08d2d1e8ffc49981031001
+  - relpath: 1/ele7.jpg
+    md5: c65795542a117f179281b922959e85f9
+    size: 132494
+    version_id: '1694125422027644'
+    etag: 08fcc6f0ffc49981031001
+  - relpath: 1/ele8.jpg
+    md5: 2a292bf4a92a0e3781487c6bbc1f9e31
+    size: 99248
+    version_id: '1694125421945685'
+    etag: 08d5c6ebffc49981031001
+  - relpath: 1/ele9.jpg
+    md5: 9ab786041ada957288b9b565875e04e5
+    size: 148878
+    version_id: '1694125422379691'
+    etag: 08ab858680c59981031001
