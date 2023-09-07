@@ -1,0 +1,3 @@
+['remote "datasets"']
+    url = gs://test-computer-vision2
+    version_aware = true
