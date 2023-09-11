@@ -36,12 +36,24 @@ outs:
   - relpath: 0/caba14.jpeg
     md5: a398e43f24b50f83384da4a537c16c54
     size: 14439
+    cloud:
+      storage:
+        etag: 08aee2cdeda7a381031001
+        version_id: '1694461196464430'
   - relpath: 0/caba15.jpeg
     md5: ad36d96cdcbeed3cee6717610dc1fa22
     size: 17513
+    cloud:
+      storage:
+        etag: 08f2abddeda7a381031001
+        version_id: '1694461196719602'
   - relpath: 0/caba16.jpeg
     md5: 617ea7400b9cf8dc2a69647ba32c7a75
     size: 18247
+    cloud:
+      storage:
+        etag: 08a9daddeda7a381031001
+        version_id: '1694461196725545'
   - relpath: 0/caba2.jpeg
     md5: c49854409ce1e70195747645cc329eeb
     size: 8953
@@ -116,12 +128,24 @@ outs:
   - relpath: 1/ele14.jpeg
     md5: 65ded3be92fab32ab628c02d39376f85
     size: 8426
+    cloud:
+      storage:
+        etag: 0881a1b1eda7a381031001
+        version_id: '1694461195997313'
   - relpath: 1/ele15.jpeg
     md5: ce42c8e8d6b82b0fa631c21ed2d5fae9
     size: 14628
+    cloud:
+      storage:
+        etag: 08e391dfeda7a381031001
+        version_id: '1694461196749027'
   - relpath: 1/ele16.jpeg
     md5: 9d248b9fba296541a9eee9214860d1f2
     size: 13582
+    cloud:
+      storage:
+        etag: 08befdf0eda7a381031001
+        version_id: '1694461197041342'
   - relpath: 1/ele2.jpg
     md5: d48e2081c83e1fed147bf64631f05ae2
     size: 125352
