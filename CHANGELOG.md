@@ -1,3 +1,11 @@
+## 1.2.1 (September 11, 2023)
+  - Merge pull request #6 from jesuslife/feature/new-data
+  - data pushed, data.dvc file changed
+  - new data added
+  - Merge branch 'hotfix-0.2.0' into develop
+  - bump-version.sh file added into this hotfix, dvc configure file regenerated
+  - Merge branch 'release-0.2.0' into develop
+
 ## 1.2.0 (September 10, 2023)
   - Reconfigure remote storage
   - Merge branch 'release-0.2.0' into main
