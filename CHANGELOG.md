@@ -1,3 +1,7 @@
+## 1.3.0 (July 22, 2024)
+  - output folder added
+  - Merge pull request #12 from jesuslife/release-1.2.2
+
 ## 1.2.2 (September 11, 2023)
   - Merge pull request #10 from jesuslife/feature/new-data
   - data pushed, .dvc file changed due to pushed action
