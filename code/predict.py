@@ -15,6 +15,7 @@ import imutils
 import torch
 import cv2
 import matplotlib.pyplot as plt
+import torch
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
