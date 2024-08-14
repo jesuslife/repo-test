@@ -3,7 +3,7 @@
 
 # set the numpy seed for better reproducibility
 import numpy as np
-np.random.seed(42)
+np.random.seed(56)
 
 # import the necessary packages
 from torch.utils.data import DataLoader
