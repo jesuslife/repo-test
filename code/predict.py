@@ -3,7 +3,7 @@
 
 # set the numpy seed for better reproducibility
 import numpy as np
-np.random.seed(42)
+np.random.seed(9999)
 
 # import the necessary packages
 from torch.utils.data import DataLoader
@@ -14,6 +14,8 @@ import argparse
 import imutils
 import torch
 import cv2
+import matplotlib.pyplot as plt
+import torch
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
