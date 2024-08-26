@@ -1,3 +1,17 @@
+## 0.0.0 (agosto 26, 2024)
+  - model-1 created
+  - Merge pull request #18 from jesuslife/CV-6-feature/new-function
+  - CV-6 validation file added
+  - Merge pull request #16 from jesuslife/CV-2-feature/first-commit
+  - CV-2 torch was added
+  - CV-2 matplotlib imported
+  - CV-2 new seed
+  - CV-2 new seed
+  - new seed
+  -  seed changed
+  - Merge pull request #15 from jesuslife/release-1.2.3
+  - file added
+
 ## 1.3.0 (July 22, 2024)
   - output folder added
   - Merge pull request #12 from jesuslife/release-1.2.2
